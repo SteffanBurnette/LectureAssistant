@@ -1,0 +1,1 @@
+call linked list has nodes

@@ -1,0 +1,88 @@
+testing one two three testing one two three hopefully this is all coming out clearly and fluent
+nice nice nice nice nice I do like to see that this is working and I see that it's being stored in the recognized text file
+also still we can really get it from the internet
+for the grades ABCD I always follow this policy and for the other classes C is d means he is so I can give you the 60 something I gave you the 5040
+I think I need to also people are updating the topics so that means we should not keep following this and also many topics already we talked about
+so my topics would be a majority of the topics will be here new school
+but now we need to focus on this so we will focus on the neural networks and deep learning is a big topic so chapter so two chapters and also many calculations many details we will study here so that would be a big one so we were staying so here we will have this song to my research Network Spotify
+what does it mean over 50 what does it mean supervised learning what does it mean maybe you took it that you know those but you never heard of that you need to know these ideas and that they are classic ideas if you don't know those ideas all of the features nothing you can understand
+those models just like evolution
+mammals fighting each other
+still survive they are what birds and the chickens
+so coming back to the idea of artificial intelligence
+I really think that we should not discuss what is artificial intelligence now you just asked to try to beat they will give you the answer what is artificial intelligence because you are discussing what is AI now without knowing those models and how does it work looks like you are discussing AI with your what you with your grandma with your Nanny it's just a chapter
+so let's do this first thing is this first
+call but 10 years ago but still classic the AI book
+it's called the artificial intelligence a modern approach not more than any more nowadays and you can see the book
+what's the topics previously also similar to the syllabus right what is AI what is intelligent agent
+what is logic
+to give you conclusions and we are not going to continue using these ideas seems like a chatter gbt so clever why we need to write down the rules manually
+they give you ideas
+no we skip this models
+learning that's the machine learning we discussed last semester machine learning
+so what I want you to do with this you can do this please go home and read the chapter one actually chapter 1.1 what is a I read it and let's discuss later after we talked about the heuristic search let's discuss what is AI in this idea in this book and we can criticize the ideas right after only two pages that's not all three pages only
+tell me an arena 1.1 section 1.1 we can discuss next week
+but really I really think it's too much liberal up
+if you are interested in the history you can keep reading in the whole chapter what the history of AI so that means those are two all the things many where the Logics using
+listen on my top
+and then you need to think about are you okay with these topics
+turn down time
+please will be a little bit thicker than
+what happens nowadays
+if you're okay or first let's talk
+will I have some
+love you and the first thing I we can do this so first you follow my slice
+we later after that we go back to the chapter the stories how to really moderate
+not only you know how to play with the search but also you need to really can use the search to fix to answer a question to to to give a solution for specific questions and also the search up with that will be your what's it cost for 82 or 3882 the last part of the airport you need to do what's the capacity for removing the first element in a regular way do you remember removing an element no no no no no no no no no no no no no no no no no no what's the temperature outside the first album what happens you need to shut the all of the remaining elements directions 01234 5667 elements here what's the number here is 782910 the size of the array is one so the 8116 in the data structure
+what about I'm using a regular array for the priority queue what is the complexity for push in the park
+elements
+array for priority queue
+so continue
+so now we are talking about what so configuration no such strategy
+you need to know that they can configurational
+what is the entry right if we were talking about the entry do you want to have a medium rare steak do you have diarrhea or do you have a what any any way of the state and also do you want to have a size the size you have a choice do you want to have a drink do you want to have a desert they are all everything is
+you have a big large cake and you have tomatoes on it and you have mozzarella cheese plus some some leaves some what's that what's that it's they have a specific name maybe it's a margarita pizza
+things do you have a specific name for this
+strategy do you want to do anything after death search for best to search do you want to have a white solution or amp solution do you want to use the heuristic or without using the her
+everything we need to discuss
+next
+do a state that recorded the current state
+Set brightness to review this I think you've already seen that before have you seen that before breakfast search in the data structure class
+what does it mean breath breath as a wide as a possible Right such as the white as possible first we are discussing
+level by levels
+what's the idea of this is we prepare a few minutes then we push initial State a into it right then we do what why are the key is not empty we pop the cube pop from the beginning Office of the day then we push what push his children the children is BC we push the BC into it then we do what we have to see and papa Papa's music for the breakfast
+we don't care about the the magic
+which one do you prefer
+cancel at
+I have a search space like this
+so now the question becomes what now we need to think about the question I'm looking I want to find the shortest path from the initial state that you were going State that's our
+is q and stack now we use what for already cute we use a priority queue for the best
+what's the order
+how much money you will
+what does it mean temperature plus first the weekend to have the value for the dashboard
+when we do the search we always going to the diva Diva as possible we don't care about the values
+when you go to a theater when you expand the children
+butts you can search for the
+you haven't finished you need to keep going keep going keep going but this solution roughly is a kind of not so bad
+I have an option not a very bad option but I have a kind of good option for my future so that means any options later that worse than it
+tell me that at least I can take the Uber to go in somewhere but if the train works better I take the train
+okay continue
+what is the best Christmas besides the regular commercial I'm adding
+how fast will you reach the girl but I the person is one test I guarantee to find the best one for the whole Subspace can you say that do you know what does it mean one test like a Google map from here to somewhere right here to the closest McDonald's restaurant I'm looking for the closest McDonald's
+so I say the time I find
+you already find
+if you want to find the second one you need to go to Google okay
+if you find a first McDonald's
+in real life
+searching for the left hand
+when did the first left hand at McDonald's is my first one can I say that's one of the best one no you cannot say that right
+what's the idea behind it what you need to do
+initialize the closest to McDonald's as your candidate
+so when you finish the whole you can help with the best one that's
+you can stop you find the first one you stop
+okay now my question is what about the ambest
+the best first what you need to do when you find the first one you should keep going to find the next option you guarantee its ascending order so the second one must be the second option second test cancel the best right then you stopped
+what's give you a string of numbers can you find the top 10
+536
+so it's a little bit busy in the beginning of the semester so let's be finished these old school things as early as possible and everything we talked about today these will be in the exam what's this one it's a stupid toy problem you have a vacuum cleaner you have a two rooms and you have some cabbage something you need to clean
+can you tell me

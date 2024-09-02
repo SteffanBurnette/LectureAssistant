@@ -2,7 +2,7 @@ import speech_recognition as sr
 
 # Initialize recognizer
 r = sr.Recognizer()
-
+    
 # File to store recognized text
 file_name = "lab_text.txt"
 

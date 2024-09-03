@@ -4,7 +4,7 @@ import speech_recognition as sr
 r = sr.Recognizer()
     
 # File to store recognized text
-file_name = "lab_text.txt"
+file_name = "Ai_Lecture_two.txt"
 
 while True:
     # Use the default system microphone as the audio source
